@@ -26,7 +26,7 @@ I created the level by myself without help just to work my creativity and level 
 - Transform 
 
 // Challenges
-I think I can find challenges every step of the way and I need to do some research on how things work and what code to use. So I verify on YouTube, ChatGPT, etc.
+I think I can find challenges every step of the way and I need to do some research on how things work and what code to use. So I verify on YouTube, Unity documentation, ChatGPT, etc.
 
   
 
